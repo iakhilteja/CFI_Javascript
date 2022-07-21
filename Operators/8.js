@@ -94,9 +94,22 @@
 
 
 
-console.log('1' - '2') //
-console.log('1' - 2) // 
-console.log(1 - '2')  // 
-console.log(100 - 1 + '2')  // 
-console.log('100' - 1 - '2')  // 
-console.log('100' - 1 - 2)  // 
+// console.log('1' - '2') //
+// console.log('1' - 2) // 
+// console.log(1 - '2')  // 
+// console.log(100 - 1 + '2')  // 
+// console.log('100' - 1 - '2')  // 
+// console.log('100' - 1 - 2)  // 
+
+
+// console.log('1' * '2') //
+// console.log('1' * 2) // 
+// console.log(1 * '2')  // 
+// console.log(100 * 1 + '2')  //
+// console.log('100' * 1 * '2')  //
+// console.log('100' * 1 * 2)  // 
+// console.log("100" * "2");//
+
+// console.log('100' + null); //
+// console.log(100 + null); //
+// console.log(8 * null); // 
