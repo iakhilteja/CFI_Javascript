@@ -12,11 +12,6 @@
 // undefined
 
 
-// comparision of var, let , const
-// Hoisting
-
-
-
 // String
 // var a = 'iamastring'
 // var a = 'i am a string'
