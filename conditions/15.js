@@ -88,14 +88,16 @@ else{
 // }
 
 
-// 1. Accept only integers, Make a number always positive though given negative
+// 1. Accept only numbers, Make a number always positive though given negative? With & without builtin function?
 
 // 2. A shop will give discount of 10% only if you purchase more than 1000 rupees.
-// Any item costs exactly 100 rupees. inputs = quantity of items.Result must be Final bill prize
+// Any item costs exactly 100 rupees. inputs = quantity of items.
+// Result must be Final bill prize
 
-// 3.Check whether a triangle is a scalene/isosceles/equilateral triangle?
-// if lengths are given
+// 3.check if its a triangle first and then Check whether a triangle is a scalene/isosceles/equilateral triangle?
+// i) if directly lengths are given,
+// ii) Take coordinates as input.
 
 // 4.Build Mini calculator having functionalities - *, /, +, - , %, squareroot, exponentiation, floor, ceil
 
-// 5.roots of quadratic equation
+// 5.roots of quadratic equation, nature of roots 
