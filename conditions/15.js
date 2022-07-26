@@ -1,19 +1,19 @@
 // Write a program to decide a given number is a positive/negative/zero
-// var a='hu'
-// if (a<0){
-//     console.log('negative')
-// }
-// else if (a>0){
-//     console.log('positive')
-// }
-// else{
-//     console.log('zero')
-// }
+var a=3
+if (a<0){
+    console.log('negative')
+}
+else if (a>0){
+    console.log('positive')
+}
+else{
+    console.log('zero')
+}
 
 
 // Write a program to decide given number is odd number or even number?
 
-// var a='hi';
+// var a='56';
 // if ((a%2)==0){
 //     console.log('even')
 // }
@@ -23,16 +23,16 @@
 
 
 // Write a program to decide which number is greater?
-// var a=40,b=40;
-// if (a>b){
-//     console.log(`${a} is greater than ${b} `)
-// }
-// else if (a<b){
-//     console.log(`${b} is greater than ${a} `)
-// }
-// else{
-//     console.log(`${a} and ${b} are equal `)
-// }
+var a=40,b=40;
+if (a>b){
+    console.log(`${a} is greater than ${b} `)
+}
+else if (a<b){
+    console.log(`${b} is greater than ${a} `)
+}
+else{
+    console.log(`${a} and ${b} are equal `)
+}
 
 
 // Bonus - Find the greatest number among 3 inputs?
@@ -73,16 +73,29 @@
 // }
 
 
-a = 211
-if (((a%3)==0) && ((a%5)==0)){
-    console.log('Fizz Buzz')
-}
-else if ((a%5)==0){
-    console.log('Buzz')
-}
-else if (((a%3)==0)){
-    console.log('Fizz')
-}
-else{
-    console.log('Not a fizz buzz')
-}
+// a = 211
+// if (((a%3)==0) && ((a%5)==0)){
+//     console.log('Fizz Buzz')
+// }
+// else if ((a%5)==0){
+//     console.log('Buzz')
+// }
+// else if (((a%3)==0)){
+//     console.log('Fizz')
+// }
+// else{
+//     console.log('Not a fizz buzz')
+// }
+
+
+// 1. Accept only integers, Make a number always positive though given negative
+
+// 2. A shop will give discount of 10% only if you purchase more than 1000 rupees.
+// Any item costs exactly 100 rupees. inputs = quantity of items.Result must be Final bill prize
+
+// 3.Check whether a triangle is a scalene/isosceles/equilateral triangle?
+// if lengths are given
+
+// 4.Build Mini calculator having functionalities - *, /, +, - , %, squareroot, exponentiation, floor, ceil
+
+// 5.roots of quadratic equation
