@@ -1,3 +1,6 @@
+
+
+
 // a=-4
 // if (a<=0){
 //     if (a==0){
@@ -22,7 +25,7 @@
 //     console.log(`${a} and ${b} are equal `)
 // }
 
-var a="2",b='5dfhyg'
+// var a="2",b='5dfhyg'
 // if (+a && +b){
 //     if (a<=b){
 //         if (a<b){
@@ -102,18 +105,19 @@ var a="2",b='5dfhyg'
 //     console.log('i am monkeys leader')
 // }
 
-var a=4
-if(((a%3)==0) || ((a%5)==0)){
-    if (((a%3)==0) && ((a%5)==0)){
-        console.log('fizz buzz')
-    }
-    else if (((a%5)==0)){
-        console.log('buzz')
-    }
-    else{
-        console.log('fizz')
-    }
-}
-else{
-    console.log('not a fizz buzz')
-}
+// var a=4
+// if(((a%3)==0) || ((a%5)==0)){
+//     if (((a%3)==0) && ((a%5)==0)){
+//         console.log('fizz buzz')
+//     }
+//     else if (((a%5)==0)){
+//         console.log('buzz')
+//     }
+//     else{
+//         console.log('fizz')
+//     }
+// }
+// else{
+//     console.log('not a fizz buzz')
+// }
+
