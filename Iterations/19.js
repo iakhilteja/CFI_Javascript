@@ -54,23 +54,58 @@
 //     }
 // }
 
-var start=10,end=20
+// var start=10,end=20
 
-while (start<=end){
-    console.log(`-------- ${start} Table ------`)
-    i=1
-    while (i<=10){
-        console.log(`${start} x ${i} = ${start*i}`)
-        i++
-    }
-    start++;
-}
+// while (start<=end){
+//     console.log(`-------- ${start} Table ------`)
+//     i=1
+//     while (i<=10){
+//         console.log(`${start} x ${i} = ${start*i}`)
+//         i++
+//     }
+//     start++;
+// }
+
+// let a='code'
+// for (i=0;i<a.length;i++){
+//     console.log(a[i])
+// }
+
+// a = 1
+// b = ' '
+// console.log(a+b)
+// c=2
+// console.log(a+b+c)
+
+
+// var start=2,end=9
+// s=''
+// for (i=start;i<=end;i++){
+//     s = s+i+' '
+// }
+// console.log(s)
+// 1+'' = '1'
+// 2+'1'='12'
+// '12'+3='123'
 
 
 
+// var a='code'
+// b=''
+// for (i=1;i<a.length;i++){
+//     b= b+'**' +a[i]//' '+c+' ' = 'c ' 
+// }
+// console.log(a[0]+b)
 
 
+// *
+// **
+// ***
+// ****
+// *****
 
-
-
-
+// 1
+// 12
+// 123
+// 1234
+// 12345
