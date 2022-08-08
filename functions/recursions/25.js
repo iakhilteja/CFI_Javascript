@@ -1,14 +1,14 @@
-// var n=5
+var n=5
 // let fibo = (n) => {
-// function fibo(n){
-//     if((n < 2 ) && (n>=0)) {
-//         return n;
-//     }
-//     return fibo(n-2)+fibo(n-1)
+function fibo(n){
+    if((n < 2 ) && (n>=0)) {
+        return n;
+    }
+    return fibo(n-2)+fibo(n-1)
      
-// }
+}
 // console.log(fibo(1))
-// for(let i=0 ;i<n;i++){console.log (fibo(i))}
+for(let i=0 ;i<n;i++){console.log (fibo(i))}
 
 
 // let sum =(a)=>{
