@@ -10,6 +10,7 @@
   "type": "module",
   "license": "ISC",
   "dependencies": {
+    "colors-cli": "^1.0.28",
     "readline-sync": "^1.4.10"
   }
 }
